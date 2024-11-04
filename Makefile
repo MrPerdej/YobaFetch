@@ -1,4 +1,4 @@
-SCRIPT = bluetux
+SCRIPT = yobafetch
 INSTALL_PATH = /usr/bin
 
 install:
